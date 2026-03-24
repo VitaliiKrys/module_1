@@ -1,0 +1,66 @@
+[2026-03-24T18:50:16.530Z] Added doc1.txt to training as doc1.txt
+[2026-03-24T18:50:16.531Z] Added doc2.txt to training as doc2.txt
+[2026-03-24T18:50:16.531Z] Model trained successfully
+[2026-03-24T18:51:04.172Z] Added doc1.txt to training as doc1.txt
+[2026-03-24T18:51:04.173Z] Added doc2.txt to training as doc2.txt
+[2026-03-24T18:51:04.173Z] Model trained successfully
+[2026-03-24T18:52:52.718Z] Added doc1.txt to training as doc1.txt
+[2026-03-24T18:52:52.718Z] Added doc2.txt to training as doc2.txt
+[2026-03-24T18:52:52.719Z] Model trained successfully
+[2026-03-24T18:52:58.168Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\doc1.txt as doc2.txt
+[2026-03-24T18:53:02.339Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\doc2.txt as doc2.txt
+[2026-03-24T18:53:05.671Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\doc1.txt as doc2.txt
+[2026-03-24T18:53:07.785Z] Added doc1.txt to training as doc1.txt
+[2026-03-24T18:53:07.785Z] Added doc2.txt to training as doc2.txt
+[2026-03-24T18:53:07.785Z] Model trained successfully
+[2026-03-24T18:55:18.294Z] Added doc1.txt as doc1.txt
+[2026-03-24T18:55:18.294Z] Added doc2.txt as doc2.txt
+[2026-03-24T18:55:18.295Z] Model trained successfully
+[2026-03-24T18:55:22.620Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\doc1.txt as doc2.txt
+[2026-03-24T18:55:30.209Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\doc2.txt as doc2.txt
+[2026-03-24T18:58:56.795Z] Added dogovir_1.txt as dogovir
+[2026-03-24T18:58:56.795Z] Added nakaz_1.txt as nakaz
+[2026-03-24T18:58:56.796Z] Added zayava_1.txt as zayava
+[2026-03-24T18:58:56.796Z] Added zvit_1.txt as zvit
+[2026-03-24T18:58:56.797Z] Model trained successfully
+[2026-03-24T18:59:01.899Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zvit_1.txt as zvit
+[2026-03-24T18:59:49.447Z] Added dogovir_1.txt as dogovir
+[2026-03-24T18:59:49.448Z] Added nakaz_1.txt as nakaz
+[2026-03-24T18:59:49.448Z] Added zayava_1.txt as zayava
+[2026-03-24T18:59:49.449Z] Added zvit_1.txt as zvit
+[2026-03-24T18:59:49.449Z] Model trained successfully
+[2026-03-24T18:59:53.733Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\dogovir_1.txt as dogovir
+[2026-03-24T19:01:38.776Z] Added dogovir_1.txt as dogovir
+[2026-03-24T19:01:38.777Z] Added nakaz_1.txt as nakaz
+[2026-03-24T19:01:38.777Z] Added zayava_1.txt as zayava
+[2026-03-24T19:01:38.778Z] Added zvit_1.txt as zvit
+[2026-03-24T19:01:38.778Z] Model trained successfully
+[2026-03-24T19:01:42.203Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\dogovir_1.txt as dogovir
+[2026-03-24T19:08:14.457Z] Added dogovir_1.txt as dogovir
+[2026-03-24T19:08:14.458Z] Added nakaz_1.txt as nakaz
+[2026-03-24T19:08:14.459Z] Added zayava_1.txt as zayava
+[2026-03-24T19:08:14.459Z] Added zvit_1.txt as zvit
+[2026-03-24T19:08:14.460Z] Model trained successfully
+[2026-03-24T19:08:21.494Z] Added dogovir_1.txt as dogovir
+[2026-03-24T19:08:21.495Z] Added nakaz_1.txt as nakaz
+[2026-03-24T19:08:21.495Z] Added zayava_1.txt as zayava
+[2026-03-24T19:08:21.495Z] Added zvit_1.txt as zvit
+[2026-03-24T19:08:21.496Z] Model trained successfully
+[2026-03-24T19:08:25.955Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zayava_1.txt as zayava
+[2026-03-24T19:08:31.157Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\nakaz_1.txt as dogovir
+[2026-03-24T19:08:34.173Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\nakaz_1.txt as dogovir
+[2026-03-24T19:08:37.907Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zvit_1.txt as zvit
+[2026-03-24T19:08:40.627Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\nakaz_1.txt as dogovir
+[2026-03-24T19:08:43.622Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\dogovir_1.txt as dogovir
+[2026-03-24T19:08:46.344Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zayava_1.txt as zayava
+[2026-03-24T19:20:39.549Z] Added dogovir_1.txt as dogovir
+[2026-03-24T19:20:39.550Z] Added nakaz_1.txt as nakaz
+[2026-03-24T19:20:39.550Z] Added zayava_1.txt as zayava
+[2026-03-24T19:20:39.551Z] Added zvit_1.txt as zvit
+[2026-03-24T19:20:39.551Z] Model trained successfully
+[2026-03-24T19:20:43.154Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zayava_1.txt as zayava
+[2026-03-24T19:20:48.540Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\dogovir_1.txt as dogovir
+[2026-03-24T19:20:51.970Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\nakaz_1.txt as dogovir
+[2026-03-24T19:20:56.591Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zvit_1.txt as zvit
+[2026-03-24T19:21:01.701Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\zayava_1.txt as zayava
+[2026-03-24T19:21:04.169Z] Classified C:\Users\user\Desktop\it-support\module_1\documents\dogovir_1.txt as dogovir

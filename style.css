@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ececec; /* світло-сірий фон */
+    color: #3a2f2f; /* темно-коричневий текст */
+    margin: 0;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 40px;
+    color: #4b3b3b; /* темніший коричневий */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+h3 {
+    margin-top: 30px;
+    font-size: 24px;
+    color: #5c4747;
+}
+
+button {
+    background-color: #8b6d5c; /* коричнево-сірий */
+    color: #fff;
+    border: none;
+    padding: 14px 28px;
+    margin: 12px;
+    font-size: 18px;
+    border-radius: 12px;
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #a28676; /* світліший коричневий при наведенні */
+    transform: translateY(-2px);
+    box-shadow: 0 7px 14px rgba(0,0,0,0.3);
+}
+
+button:active {
+    transform: translateY(1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#result {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a2f2f;
+    border: 2px solid #8b6d5c;
+    border-radius: 12px;
+    padding: 20px;
+    display: inline-block;
+    background-color: #dcd6d1; /* світло-сірий фон для блоку результату */
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    min-width: 300px;
+}

@@ -1,0 +1,6 @@
+{
+  "appName": "Document Classifier",
+  "version": "1.0",
+  "defaultDocPath": "./documents",
+  "logFile": "app.log"
+}
