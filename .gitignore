@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Логи
+*.log
+
+# Продукти збірки (якщо є)
+dist/
